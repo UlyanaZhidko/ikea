@@ -1,4 +1,3 @@
-'use strict';
 
 const generateSubCatalog= () => {
     const subcatalog = `
@@ -32,4 +31,4 @@ const generateSubCatalog= () => {
 
 }
 
-generateSubCatalog();
+export default generateSubCatalog;

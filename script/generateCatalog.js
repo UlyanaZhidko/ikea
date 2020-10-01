@@ -1,4 +1,3 @@
-'use strict';
 
 const generateCatalog = () => {
     const catalog = `
@@ -27,4 +26,4 @@ const generateCatalog = () => {
 
 }
 
-generateCatalog();
+export default generateCatalog;
